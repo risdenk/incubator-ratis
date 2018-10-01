@@ -150,7 +150,7 @@
     <maven-stylus-skin.version>1.5</maven-stylus-skin.version>
     <maven-surefire-plugin.version>2.21.0</maven-surefire-plugin.version>
 
-    <protobuf-maven-plugin.version>0.5.1</protobuf-maven-plugin.version>
+    <protobuf-maven-plugin.version>0.6.1</protobuf-maven-plugin.version>
 
     <!--
       ! Can be removed if changing to ASF parent version 19
