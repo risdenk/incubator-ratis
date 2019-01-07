@@ -165,7 +165,7 @@
     <shell-executable>bash</shell-executable>
 
     <hadoop.version>3.0.0-alpha1</hadoop.version>
-    <hadoop-maven-plugins.version>${hadoop.version}</hadoop-maven-plugins.version>
+    <hadoop-maven-plugins.version>3.1.1</hadoop-maven-plugins.version>
 
     <!-- define the Java language version used by the compiler -->
     <javac.version>1.8</javac.version>
